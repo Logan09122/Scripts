@@ -1,0 +1,66 @@
+Nombre de equipo, destino de directiva, subcategoría, GUID de subcategoría, configuración de inclusión, configuración de exclusión, valor de configuración
+SOPORTEPECHUGON,Sistema,Otros eventos de sistema,{0CCE9214-69AE-11D9-BED3-505054503030},Aciertos y errores,,3
+SOPORTEPECHUGON,Sistema,Integridad del sistema,{0CCE9212-69AE-11D9-BED3-505054503030},Aciertos y errores,,3
+SOPORTEPECHUGON,Sistema,Extensión del sistema de seguridad,{0CCE9211-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Cambio de estado de seguridad,{0CCE9210-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Controlador IPsec,{0CCE9213-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Modo extendido de IPsec,{0CCE921A-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Inicio de sesión especial,{0CCE921B-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Modo rápido de IPsec,{0CCE9219-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Servidor de directivas de redes,{0CCE9243-69AE-11D9-BED3-505054503030},Aciertos y errores,,3
+SOPORTEPECHUGON,Sistema,Notificaciones de usuario o dispositivo,{0CCE9247-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Pertenencia a grupos,{0CCE9249-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Modo principal de IPsec,{0CCE9218-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Bloqueo de cuenta,{0CCE9217-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Cerrar sesión,{0CCE9216-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Otros eventos de inicio y cierre de sesión,{0CCE921C-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Inicio de sesión,{0CCE9215-69AE-11D9-BED3-505054503030},Aciertos y errores,,3
+SOPORTEPECHUGON,Sistema,Recurso compartido de archivos,{0CCE9224-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Registro,{0CCE921E-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Almacenamiento provisional de directiva central,{0CCE9246-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Almacenamiento extraíble,{0CCE9245-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Recurso compartido de archivos detallado,{0CCE9244-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Otros eventos de acceso a objetos,{0CCE9227-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Conexión de Plataforma de filtrado,{0CCE9226-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Colocación de paquetes de Plataforma de filtrado,{0CCE9225-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Sistema de archivos,{0CCE921D-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Manipulación de identificadores,{0CCE9223-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Aplicación generada,{0CCE9222-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Servicios de certificación,{0CCE9221-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,SAM,{0CCE9220-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Objeto de kernel,{0CCE921F-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Uso de privilegio no confidencial,{0CCE9229-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Uso de privilegio confidencial,{0CCE9228-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Otros eventos de uso de privilegio,{0CCE922A-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Finalización del proceso,{0CCE922C-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Eventos de ajuste de derecho de token,{0CCE924A-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Eventos Plug and Play,{0CCE9248-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Eventos de RPC,{0CCE922E-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Actividad DPAPI,{0CCE922D-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Creación del proceso,{0CCE922B-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Cambio de la directiva de autenticación,{0CCE9230-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Cambio en la directiva de auditoría,{0CCE922F-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Cambio de la directiva de Plataforma de filtrado,{0CCE9233-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Otros eventos de cambio de directivas,{0CCE9234-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Cambio de la directiva de autorización,{0CCE9231-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Cambio de la directiva del nivel de reglas de MPSSVC,{0CCE9232-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Administración de grupos de distribución,{0CCE9238-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Administración de grupos de aplicaciones,{0CCE9239-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Otros eventos de administración de cuentas,{0CCE923A-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Administración de cuentas de usuario,{0CCE9235-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Administración de cuentas de equipo,{0CCE9236-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Administración de grupos de seguridad,{0CCE9237-69AE-11D9-BED3-505054503030},Aciertos,,1
+SOPORTEPECHUGON,Sistema,Cambios de servicio de directorio,{0CCE923C-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Replicación de servicio de directorio,{0CCE923D-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Replicación de servicio de directorio detallada,{0CCE923E-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Acceso del servicio de directorio,{0CCE923B-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Validación de credenciales,{0CCE923F-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Operaciones de vales de servicio Kerberos,{0CCE9240-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Servicio de autenticación Kerberos,{0CCE9242-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,Sistema,Otros eventos de inicio de sesión de cuentas,{0CCE9241-69AE-11D9-BED3-505054503030},Sin auditoría,,0
+SOPORTEPECHUGON,,Opción:CrashOnAuditFail,,Deshabilitado,,0
+SOPORTEPECHUGON,,Opción:FullPrivilegeAuditing,,Deshabilitado,,0
+SOPORTEPECHUGON,,Opción:AuditBaseObjects,,Deshabilitado,,0
+SOPORTEPECHUGON,,Opción:AuditBaseDirectories,,Deshabilitado,,0
+SOPORTEPECHUGON,,FileGlobalSacl,,,,
+SOPORTEPECHUGON,,RegistryGlobalSacl,,,,
